@@ -1,4 +1,4 @@
-//一个时钟函数
+//一个时钟函数2
 
 import time
 
@@ -14,5 +14,5 @@ while total_seconds:
 print("Focus timer complete!")
 
 
-//2024.10.21
+//2024.10.22
 //13.57
